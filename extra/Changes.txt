@@ -1,0 +1,7 @@
+1.	made some changes of print_errors() function
+	Line 1936
+	From:
+	echo $msg;
+	To:
+	return $msg;
+	
